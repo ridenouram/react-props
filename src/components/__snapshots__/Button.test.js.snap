@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component snapshot 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "red",
+      "height": "75px",
+      "margin": "10px",
+      "width": "75px",
+    }
+  }
+  type="button"
+>
+  red
+</button>
+`;

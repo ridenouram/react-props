@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component matches a snapshot 1`] = `
+<dl
+  style={
+    Object {
+      "backgroundColor": "#deb993",
+    }
+  }
+>
+  <dt>
+    Name
+  </dt>
+  <dd>
+    yellow peach
+  </dd>
+  <dt>
+    Hex
+  </dt>
+  <dd>
+    #deb993
+  </dd>
+  <dt>
+    RGB
+  </dt>
+  <dd>
+    red: 
+    222
+  </dd>
+  <dd>
+    green: 
+    185
+  </dd>
+  <dd>
+    blue: 
+    147
+  </dd>
+</dl>
+`;

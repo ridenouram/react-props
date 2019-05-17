@@ -5,11 +5,15 @@ exports[`Header Component matches a snapshot 1`] = `
   <dt>
     Name
   </dt>
-  <dd />
+  <dd>
+    fido
+  </dd>
   <dt>
     Age
   </dt>
-  <dd />
+  <dd>
+    15
+  </dd>
   <dt>
     Weight
   </dt>
